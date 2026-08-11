@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Runtime / user uploads
+uploads/
+vector_index/*/
+
+# Frontend build output
+dist/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
